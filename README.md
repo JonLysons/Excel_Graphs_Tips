@@ -1,4 +1,4 @@
-# Excel Graphs Tips
+# Excel Graphics Tips
 
 ## Tables
 
