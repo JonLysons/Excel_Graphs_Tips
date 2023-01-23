@@ -16,7 +16,7 @@
 
 1. Select a cell within the data.
 2. Select Home > Sort & Filter. Or, select Data > Sort.
-3. Select an option:
+3. Select an option
    – 1. Sort A to Z - sorts the selected column in an ascending order.
    – 2. Sort Z to A - sorts the selected column in a descending order.
    – 3. Custom Sort - sorts data in multiple columns by applying different sort criteria.
