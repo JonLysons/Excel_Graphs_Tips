@@ -49,9 +49,9 @@ When you apply a filter to a column, the only filters available for other column
 Only the first 10,000 unique entries in a list appear in the filter window.
 
 Use wildcards:
-1. ? (question mark) – Any single character, eg sm?th finds "smith" and "smyth"
-2. * (asterisk) – Any number of characters, eg *east finds "Northeast" and "Southeast"
-3. ~ (tilde) – A question mark or an asterisk, eg there~? finds "there?"
+1. `?` (question mark) – Any single character, eg sm?th finds "smith" and "smyth"
+2. `*` (asterisk) – Any number of characters, eg *east finds "Northeast" and "Southeast"
+3. `~` (tilde) – A question mark or an asterisk, eg there~? finds "there?"
 
 ### Total row
 
@@ -152,7 +152,6 @@ You can add labels to show the data point values from the Excel sheet in the cha
 ### Sparklines
 
 A sparkline is a tiny chart in a worksheet cell that provides a visual representation of data. Use sparklines to show trends in a series of values, such as seasonal increases or decreases, economic cycles, or to highlight maximum and minimum values. Position a sparkline near its data for greatest impact.
-
 
 Add a Sparkline
 1. Select a blank cell at the end of a row of data.
