@@ -129,7 +129,7 @@ You can change the order of a data series in a chart with more than one data ser
 3. In the Select Data Source dialog box, next to Legend entries (Series), use the up and down arrows to move the series up or down in the list.
 4. Select OK.
 
-### Change the fill color of the data series
+### Change the fill color of the data series
 
 1. In the chart, select a data series. For example, in a column chart, click a column, and all the columns of that data series become selected.
 2. Select Format.
